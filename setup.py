@@ -6,9 +6,9 @@ setup(
     description="Python SDK for Gemma LLM models with multi-turn, multi-API function calling capabilities",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Gemma SDK Team",
-    author_email="info@gemmasdk.com",
-    url="https://github.com/gemma-sdk/gemma-sdk",
+    author="Gemma Functional calling SDK Team",
+    author_email="yashdeep18121@iiitd.ac.in",
+    url="https://github.com/prasad-yashdeep/gemma-function-calling",
     packages=find_packages(),
     install_requires=[
         "transformers>=4.30.0",
