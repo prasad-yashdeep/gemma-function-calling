@@ -17,11 +17,7 @@ Gemma SDK is a Python SDK that allows Gemma LLM models (4B/7B/12B) to seamlessly
 9. [Advanced Usage](#advanced-usage)
 10. [API Reference](#api-reference)
 
-## Installation
 
-```bash
-pip install gemma-sdk
-```
 
 ## Quick Start
 
@@ -440,4 +436,4 @@ else:
 
 ## API Reference
 
-For detailed API reference, please see the [API Reference](api_reference.md) document.
+For detailed API reference, please see the [API Reference]() document.
